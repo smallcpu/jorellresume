@@ -1,0 +1,37 @@
+<style type=" text/css">
+font-face{
+	font-family: "my stuff";
+}
+h1{font-family: 'Lobster';}
+h2 {font-family: 'Fredoka One', cursive;}
+h1{
+	color: lightblue;
+	background-color:hsla(160,100%,70%,0.4);
+}
+
+h2{
+
+	color: lightblue;
+	background-color:hsla(160,100%,70%,0.5);
+}
+
+h3{
+	color:blue;
+	background-color:hsla(120,100%,70%,.6);
+}
+p1{
+	color: white;
+}
+p{
+	color: yellow;
+
+	font-size:20px;
+}
+
+ul{
+	color: grey;
+	
+}
+body  {
+background-color: lightblue;
+ }
